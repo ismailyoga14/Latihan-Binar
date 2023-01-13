@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hello world</string>
+    <string name="tv_welcome">!!!WELCOME TO SUIT JEPANG!!</string>
+    <string name="btn_welcome">START GAME</string>
+    <string name="tv_judul">kertas gunting batu</string>
+    <string name="tv_pemain">kamu                                                                                   com</string>
+
+
+</resources>
